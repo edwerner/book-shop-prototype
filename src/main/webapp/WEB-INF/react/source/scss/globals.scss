@@ -1,0 +1,66 @@
+$small-text-size: .8em;
+$message-text-size: 1.3em;
+$large-text-size: 2.7em;
+$info-text-size: 1em;
+$light-blue: rgb(29,117,188);
+$light-blue-hover: rgb(29,117,250);
+$white: rgb(255,255,255);
+$black: rgb(0, 0, 0);
+$error: rgb(204,0,0);
+$green: green;
+$grey: #CCCCCC;
+$small-box-width: 50px;
+$small-box-height: 50px;
+$hover-opacity: 0.5;
+$small-border-radius: 2px;
+$large-border-radius: 4px;
+$half-opacity: 0.50;
+$three-quarters-opacity: 0.75;
+$full-opacity: 1;
+$full-percent: 100%;
+$small-square: 25px;
+$medium-square: 50px;
+$large-square: 100px;
+$margin-small: 10px;
+
+.hidden {
+	display: none;
+}
+
+.overflow-hidden {
+	overflow: hidden;
+}
+
+.error {
+	color: $error;
+}
+
+.button-mouseenter {
+	opacity: $half-opacity;
+	cursor: pointer;
+}
+
+.button-mouseleave {
+	opacity: $full-opacity;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+.form__width {
+	min-width: 350px;
+}
+
+.width__100 {
+	width: $full-percent;
+}
+
+.height__100 {
+	height: $full-percent;
+}
+
+.close-button {
+	width: 40px;
+	height: 40px;
+}

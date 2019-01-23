@@ -1,0 +1,7 @@
+react\app\server\config\WebAppConfigurationAware.class
+react\app\server\signup\SignupControllerTest.class
+react\app\server\config\WebSecurityConfigurationAware.class
+react\app\server\config\NoCsrfSecurityConfig.class
+react\app\server\config\EmbeddedDataSourceConfig.class
+react\app\server\account\UserAuthenticationIntegrationTest.class
+react\app\server\account\AccountServiceTest.class
